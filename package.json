@@ -1,0 +1,23 @@
+{
+  "name": "node_crud",
+  "version": "1.0.0",
+  "description": "node crud",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranilchhetri/node_crud.git"
+  },
+  "keywords": [
+    "node",
+    "crud"
+  ],
+  "author": "pranil gc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranilchhetri/node_crud/issues"
+  },
+  "homepage": "https://github.com/pranilchhetri/node_crud#readme"
+}
